@@ -1,0 +1,35 @@
+C:\Users\admin\source\repos\AirportManagement\AM.Core.Interfaces\bin\Debug\net8.0\AM.Core.Interfaces.deps.json
+C:\Users\admin\source\repos\AirportManagement\AM.Core.Interfaces\bin\Debug\net8.0\AM.Core.Interfaces.dll
+C:\Users\admin\source\repos\AirportManagement\AM.Core.Interfaces\bin\Debug\net8.0\AM.Core.Interfaces.pdb
+C:\Users\admin\source\repos\AirportManagement\AM.Core.Interfaces\obj\Debug\net8.0\AM.Core.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\AirportManagement\AM.Core.Interfaces\obj\Debug\net8.0\AM.Core.Interfaces.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\AirportManagement\AM.Core.Interfaces\obj\Debug\net8.0\AM.Core.Interfaces.AssemblyInfo.cs
+C:\Users\admin\source\repos\AirportManagement\AM.Core.Interfaces\obj\Debug\net8.0\AM.Core.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\AirportManagement\AM.Core.Interfaces\obj\Debug\net8.0\AM.Core.Interfaces.sourcelink.json
+C:\Users\admin\source\repos\AirportManagement\AM.Core.Interfaces\obj\Debug\net8.0\AM.Core.Interfaces.dll
+C:\Users\admin\source\repos\AirportManagement\AM.Core.Interfaces\obj\Debug\net8.0\refint\AM.Core.Interfaces.dll
+C:\Users\admin\source\repos\AirportManagement\AM.Core.Interfaces\obj\Debug\net8.0\AM.Core.Interfaces.pdb
+C:\Users\admin\source\repos\AirportManagement\AM.Core.Interfaces\obj\Debug\net8.0\ref\AM.Core.Interfaces.dll
+E:\dotnet\AirportManagement\AM.Core.Interfaces\bin\Debug\net8.0\AM.Core.Interfaces.deps.json
+E:\dotnet\AirportManagement\AM.Core.Interfaces\bin\Debug\net8.0\AM.Core.Interfaces.dll
+E:\dotnet\AirportManagement\AM.Core.Interfaces\bin\Debug\net8.0\AM.Core.Interfaces.pdb
+E:\dotnet\AirportManagement\AM.Core.Interfaces\obj\Debug\net8.0\AM.Core.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet\AirportManagement\AM.Core.Interfaces\obj\Debug\net8.0\AM.Core.Interfaces.AssemblyInfoInputs.cache
+E:\dotnet\AirportManagement\AM.Core.Interfaces\obj\Debug\net8.0\AM.Core.Interfaces.AssemblyInfo.cs
+E:\dotnet\AirportManagement\AM.Core.Interfaces\obj\Debug\net8.0\AM.Core.Interfaces.csproj.CoreCompileInputs.cache
+E:\dotnet\AirportManagement\AM.Core.Interfaces\obj\Debug\net8.0\AM.Core.Interfaces.sourcelink.json
+E:\dotnet\AirportManagement\AM.Core.Interfaces\obj\Debug\net8.0\AM.Core.Interfaces.dll
+E:\dotnet\AirportManagement\AM.Core.Interfaces\obj\Debug\net8.0\refint\AM.Core.Interfaces.dll
+E:\dotnet\AirportManagement\AM.Core.Interfaces\obj\Debug\net8.0\AM.Core.Interfaces.pdb
+E:\dotnet\AirportManagement\AM.Core.Interfaces\obj\Debug\net8.0\ref\AM.Core.Interfaces.dll
+C:\Users\user\Downloads\AirportManagement 6\AM.Core.Interfaces\bin\Debug\net8.0\AM.Core.Interfaces.deps.json
+C:\Users\user\Downloads\AirportManagement 6\AM.Core.Interfaces\bin\Debug\net8.0\AM.Core.Interfaces.dll
+C:\Users\user\Downloads\AirportManagement 6\AM.Core.Interfaces\bin\Debug\net8.0\AM.Core.Interfaces.pdb
+C:\Users\user\Downloads\AirportManagement 6\AM.Core.Interfaces\obj\Debug\net8.0\AM.Core.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\AirportManagement 6\AM.Core.Interfaces\obj\Debug\net8.0\AM.Core.Interfaces.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\AirportManagement 6\AM.Core.Interfaces\obj\Debug\net8.0\AM.Core.Interfaces.AssemblyInfo.cs
+C:\Users\user\Downloads\AirportManagement 6\AM.Core.Interfaces\obj\Debug\net8.0\AM.Core.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\AirportManagement 6\AM.Core.Interfaces\obj\Debug\net8.0\AM.Core.Interfaces.dll
+C:\Users\user\Downloads\AirportManagement 6\AM.Core.Interfaces\obj\Debug\net8.0\refint\AM.Core.Interfaces.dll
+C:\Users\user\Downloads\AirportManagement 6\AM.Core.Interfaces\obj\Debug\net8.0\AM.Core.Interfaces.pdb
+C:\Users\user\Downloads\AirportManagement 6\AM.Core.Interfaces\obj\Debug\net8.0\ref\AM.Core.Interfaces.dll

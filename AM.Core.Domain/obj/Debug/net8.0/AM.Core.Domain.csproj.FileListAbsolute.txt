@@ -1,0 +1,35 @@
+C:\Users\admin\source\repos\AirportManagement\AM.Core.Domain\bin\Debug\net8.0\AM.Core.Domain.deps.json
+C:\Users\admin\source\repos\AirportManagement\AM.Core.Domain\bin\Debug\net8.0\AM.Core.Domain.dll
+C:\Users\admin\source\repos\AirportManagement\AM.Core.Domain\bin\Debug\net8.0\AM.Core.Domain.pdb
+C:\Users\admin\source\repos\AirportManagement\AM.Core.Domain\obj\Debug\net8.0\AM.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\AirportManagement\AM.Core.Domain\obj\Debug\net8.0\AM.Core.Domain.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\AirportManagement\AM.Core.Domain\obj\Debug\net8.0\AM.Core.Domain.AssemblyInfo.cs
+C:\Users\admin\source\repos\AirportManagement\AM.Core.Domain\obj\Debug\net8.0\AM.Core.Domain.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\AirportManagement\AM.Core.Domain\obj\Debug\net8.0\AM.Core.Domain.dll
+C:\Users\admin\source\repos\AirportManagement\AM.Core.Domain\obj\Debug\net8.0\refint\AM.Core.Domain.dll
+C:\Users\admin\source\repos\AirportManagement\AM.Core.Domain\obj\Debug\net8.0\AM.Core.Domain.pdb
+C:\Users\admin\source\repos\AirportManagement\AM.Core.Domain\obj\Debug\net8.0\ref\AM.Core.Domain.dll
+C:\Users\admin\source\repos\AirportManagement\AM.Core.Domain\obj\Debug\net8.0\AM.Core.Domain.sourcelink.json
+E:\dotnet\AirportManagement\AM.Core.Domain\bin\Debug\net8.0\AM.Core.Domain.deps.json
+E:\dotnet\AirportManagement\AM.Core.Domain\bin\Debug\net8.0\AM.Core.Domain.dll
+E:\dotnet\AirportManagement\AM.Core.Domain\bin\Debug\net8.0\AM.Core.Domain.pdb
+E:\dotnet\AirportManagement\AM.Core.Domain\obj\Debug\net8.0\AM.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet\AirportManagement\AM.Core.Domain\obj\Debug\net8.0\AM.Core.Domain.AssemblyInfoInputs.cache
+E:\dotnet\AirportManagement\AM.Core.Domain\obj\Debug\net8.0\AM.Core.Domain.AssemblyInfo.cs
+E:\dotnet\AirportManagement\AM.Core.Domain\obj\Debug\net8.0\AM.Core.Domain.csproj.CoreCompileInputs.cache
+E:\dotnet\AirportManagement\AM.Core.Domain\obj\Debug\net8.0\AM.Core.Domain.sourcelink.json
+E:\dotnet\AirportManagement\AM.Core.Domain\obj\Debug\net8.0\AM.Core.Domain.dll
+E:\dotnet\AirportManagement\AM.Core.Domain\obj\Debug\net8.0\refint\AM.Core.Domain.dll
+E:\dotnet\AirportManagement\AM.Core.Domain\obj\Debug\net8.0\AM.Core.Domain.pdb
+E:\dotnet\AirportManagement\AM.Core.Domain\obj\Debug\net8.0\ref\AM.Core.Domain.dll
+C:\Users\user\Downloads\AirportManagement 6\AM.Core.Domain\bin\Debug\net8.0\AM.Core.Domain.deps.json
+C:\Users\user\Downloads\AirportManagement 6\AM.Core.Domain\bin\Debug\net8.0\AM.Core.Domain.dll
+C:\Users\user\Downloads\AirportManagement 6\AM.Core.Domain\bin\Debug\net8.0\AM.Core.Domain.pdb
+C:\Users\user\Downloads\AirportManagement 6\AM.Core.Domain\obj\Debug\net8.0\AM.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\AirportManagement 6\AM.Core.Domain\obj\Debug\net8.0\AM.Core.Domain.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\AirportManagement 6\AM.Core.Domain\obj\Debug\net8.0\AM.Core.Domain.AssemblyInfo.cs
+C:\Users\user\Downloads\AirportManagement 6\AM.Core.Domain\obj\Debug\net8.0\AM.Core.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\AirportManagement 6\AM.Core.Domain\obj\Debug\net8.0\AM.Core.Domain.dll
+C:\Users\user\Downloads\AirportManagement 6\AM.Core.Domain\obj\Debug\net8.0\refint\AM.Core.Domain.dll
+C:\Users\user\Downloads\AirportManagement 6\AM.Core.Domain\obj\Debug\net8.0\AM.Core.Domain.pdb
+C:\Users\user\Downloads\AirportManagement 6\AM.Core.Domain\obj\Debug\net8.0\ref\AM.Core.Domain.dll
